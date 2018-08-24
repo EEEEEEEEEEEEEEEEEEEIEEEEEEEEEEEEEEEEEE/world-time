@@ -1,0 +1,1 @@
+html,body{display:flex;justify-content:center;align-items:center}ul{height:auto;margin:150px auto 0}ul li{height:50px;line-height:50px;border-bottom:1px dotted black;font-size:20px;text-indent:1em;text-align:right;font-weight:bold;transition-duration:.2s}ul li:hover{background-color:aquamarine;transform:translateY(-4px)}ul li span{float:right;margin-right:20px;font-weight:normal}
